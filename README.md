@@ -1,4 +1,5 @@
 ## Hi there 👋
 
 
-![Snake animation](./github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Nimish-go/Nimish-go/main/github-contribution-grid-snake.svg)
+
