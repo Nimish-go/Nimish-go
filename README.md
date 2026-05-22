@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/nimish-godbole](https://www.linkedin.com/in/nimish-godbole-3425b01b6/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nimishgodbole409@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=388bfd&label=PROFILE+VIEWS)](https://github.com/Nimish-go)
+[![Profile Views](https://komarev.com/ghpvc/?username=Nimish-go&style=for-the-badge&color=388bfd&label=PROFILE+VIEWS)](https://github.com/Nimish-go)
 
 </div>
 
@@ -20,17 +20,45 @@
 
 ## 🚀 About Me
 
-```text
-const nimish = {
-  role      : "Full Stack Developer",
-  location  : "Pune, Maharashtra, India",
-  focus     : ["Scalable APIs", "DB Performance", "React UIs"],
-  apis      :  "45+ production REST APIs deployed",
-  dbBoost   :  "35% PostgreSQL performance improvement",
-  apiSpeed  :  "25% faster API response times",
-  users     :  "50+ daily active users served",
-};
-```
+<table>
+  <tr>
+    <td valign="top" width="55%">
+
+### Hi, I'm Nimish 👋
+
+I'm a **Full Stack Developer** based in Pune, India, passionate about building systems that are fast, reliable, and actually used by real people.
+
+- 🔭 Currently freelancing — shipping a live task platform for **50+ users**
+- ⚡ Deployed **45+ production REST APIs** across multiple products
+- 🗄️ Obsessed with DB performance — boosted PostgreSQL by **35%**
+- 📉 Cut API response times by **25%** on high-traffic endpoints
+- 🎓 M.Sc. Computer Science — MIT World Peace University
+- 📬 Reach me at **nimishgodbole409@gmail.com**
+
+    </td>
+    <td valign="top" width="45%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nimish-go&theme=github-compact&hide_border=true&bg_color=0d1117&color=38bdf8&line=1a3a8f&point=38bdf8&area=true&area_color=1a3a8f" width="100%"/>
+
+    </td>
+  </tr>
+</table>
+
+### 🧰 Technologies I work with
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,nodejs,express,java,spring,flask,postgres,mysql,mongodb,firebase,vercel,git,github&theme=dark&perline=9" />
+</div>
+
+### 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nimish-go/Nimish-go/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nimish-go/Nimish-go/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Nimish-go/Nimish-go/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 
 ---
 
@@ -117,12 +145,12 @@ Digitized a campus parking facility, eliminating paper-based check-ins.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=7ee787" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=388bfd" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nimish-go&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=7ee787" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimish-go&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=388bfd" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=388bfd&fire=f78166&currStreakLabel=7ee787"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nimish-go&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=388bfd&fire=f78166&currStreakLabel=7ee787"/>
 </div>
 
 ---
